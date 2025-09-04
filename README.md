@@ -1,3 +1,2 @@
 ﻿# Realtime_Chat-App-
-It helps to chat with end-to end
-
+It helps to chat with end-
